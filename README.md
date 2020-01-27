@@ -1,6 +1,6 @@
 # FORK AT YOUR OWN RISK
 # Installing
-Join https://t.me/XtraTgBot for updates and tuts
+Join https://t.me/hackershubbb for updates and tuts
 ### The Easy Way
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
@@ -9,8 +9,8 @@ Join https://t.me/XtraTgBot for updates and tuts
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/Dark-Princ3/X-tra-Telegram
-cd X-tra-Telegram
+git clone https://github.com/venomvipers/fuckinguserbot
+cd fuckinguserbot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
