@@ -124,7 +124,7 @@ async def on_afk(event):
         message_to_reply = f"My Master Has Been Gone For {afk_since}\nWhere He Is: ONLY GOD KNOWS " + \
             f"\n\n__I promise I'll back in a few hours__\n**REASON**: {reason}" \
             if reason \
-            else f"**Important Notice**\n\n[Roses are red,\nViolets are blue,\nLeave me a message,\nAnd I'll get back to you...](https://telegra.ph/file/a42399b3c33aecb8d794c.jpg) "
+            else f"**HOLA PEEPS 😏**\n\n[Roses are red,\nViolets are blue,\nLeave me a message,\nAnd I'll get back to you...](https://telegra.ph/file/a42399b3c33aecb8d794c.jpg) "
         msg = await event.reply(message_to_reply)
         await asyncio.sleep(5)
         if event.chat_id in last_afk_message:  # pylint:disable=E0602
